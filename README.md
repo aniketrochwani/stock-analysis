@@ -1,0 +1,1 @@
+# Financial dashboard provides basic stock figures of various corporations.
