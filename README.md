@@ -1,5 +1,7 @@
-# Stock-Analysis
-A complete platform for analysis of stock and pricing of co-orporations based on the ticker symbol.
+# Stock-Analysis 
+The "Stock Analysis based on Ticker Symbol" project is a ReactJS-based web application that fetches financial data using Axios and presents it through Plotly.js for data visualization. Users input a company's ticker symbol to view a comprehensive analysis of its performance, including maximum and minimum opening and high/low prices, maximum and minimum traded volumes, and total traded volume. The app offers a range of graphs and metrics, including 5-minute, boiler band, daily price comparison, violin plot, and histogram. Its user-friendly interface and efficient data processing make it a valuable resource for both novice investors and financial professionals seeking insights into the performance of publicly traded companies.
+
+Project Link: <a href="https://stock-analysis-by-ticker.netlify.app/">Live</a>
 
 ## How to get started:
   - Run `git clone https://github.com/aniketrochwani/stock-analysis.git`
